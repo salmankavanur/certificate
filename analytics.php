@@ -64,6 +64,7 @@
               label: '# of Downloads',
               data: [<?php echo $download_count; ?>, <?php echo $remaining; ?>],
               backgroundColor: [
+                'rgba(54, 162, 235, 0.2)',
                 'rgba(255, 99, 132, 0.2)'
               ],
               borderColor: [
